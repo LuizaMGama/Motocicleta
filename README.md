@@ -1,4 +1,4 @@
-# Motocicleta
+# Motocicleta-Design
 ![Motocicleta](https://github.com/LuizaMGama/Motocicleta/assets/164073139/dfd137cb-6da4-423e-ba5f-19e2a2008e3c)
 <br>
 Prototipagem do projeto de acordo com as instruções do professor Jailson Costa.
